@@ -21,3 +21,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn sentence-transformers o
 
 # API Key Configuration
 client = OpenAI(api_key="sk-your-actual-api-key")
+
+# How to run
+python "Text Classification & Hierarchical Topic Clustering.py"
