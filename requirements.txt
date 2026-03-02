@@ -1,5 +1,10 @@
 streamlit
-litellm
-scikit-learn
-pandas
-openpyxl
+langchain
+langchain-openai
+langchain-community
+langchain-chroma
+chromadb
+pypdf
+unstructured
+docx2txt
+tiktoken
